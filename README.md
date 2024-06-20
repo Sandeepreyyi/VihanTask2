@@ -13,4 +13,4 @@ This is a simplified library management system implemented in Python using OOP c
 
 1. Clone the repository:
    ```sh
-   git clone <repository_url
+   https://github.com/Sandeepreyyi/VihanTask2
